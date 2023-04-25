@@ -32,9 +32,9 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍💻 **Developer:** @soonbotmaker0
 
-👥 **YouTube Channel:** [GregMatter's](https://youtube.com/@GreyMattersYT)
+👥 **Contact Admin:** [Admin](https://t.me/B_PLAB)
 
-📢 **Updates Channel:** [GreyMatter_Bots](https://t.me/GreyMatter_Bots)
+📢 **Developer:** [Pradarsh](https://t.me/soonbotmaker0)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @soonbotmaker0
@@ -43,7 +43,7 @@ Developer is Super Noob. Just Learning from Official Docs. Please Donate the dev
 
 Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
-[Direct Link Generator Bot](https://t.me/direct_link_generator_658_bot) (File stream bot)
+[Content Developer ](https://t.me/soonbotmaker0 ) (paid bot making)
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
