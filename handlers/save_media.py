@@ -55,8 +55,8 @@ async def save_batch_media_in_channel(bot: Client, editable: Message, message_id
             f"Just Click the link to get your files!",
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("Open Link", url=share_link)],
-                 [InlineKeyboardButton("Bots updates", url="https://t.me/GreyMatter_Bots"),
-                  InlineKeyboardButton("YouTube Channel", url="https://youtube.com/@GreyMattersYT")]]
+                 [InlineKeyboardButton("Developer", url="https://t.me/soonbotmaker0"),
+                  InlineKeyboardButton("Contact Admin", url="https://t.me/B_PLAB")]]
             ),
             disable_web_page_preview=True
         )
@@ -94,8 +94,8 @@ async def save_media_in_channel(bot: Client, editable: Message, message: Message
             "Just Click the link to get your file!",
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("Open Link", url=share_link)],
-                 [InlineKeyboardButton("Bots updates", url="https://t.me/GreyMatter_Bots"),
-                  InlineKeyboardButton("YouTube Channel", url="https://youtube.com/@GreyMattersYT")]]
+                 [InlineKeyboardButton("Developer", url="https://t.me/soonbotmaker0"),
+                  InlineKeyboardButton("Contact Admin", url="https://t.me/B_PLAB")]]
             ),
             disable_web_page_preview=True
         )
