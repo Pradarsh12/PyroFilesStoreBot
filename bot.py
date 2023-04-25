@@ -120,7 +120,7 @@ async def main(bot: Client, message: Message):
                 return
 
         if message.from_user.id in Config.BANNED_USERS:
-            await message.reply_text("Sorry, You are banned!\n\nContact [Support Group](https://t.me/JoinOT)",
+            await message.reply_text("Sorry, You are banned!\n\nContact [Developer](https://t.me/soonbotmaker0)",
                                      disable_web_page_preview=True)
             return
 
@@ -315,7 +315,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://t.me/soonbotmaker0 ")
+                                             url="https://t.me/soonbotmaker0")
                     ],
                     [
                         InlineKeyboardButton("Go Home", callback_data="gotohome"),
@@ -333,7 +333,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://t.me/soonbotmaker0 ")
+                                             url="https://t.me/soonbotmaker0")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
