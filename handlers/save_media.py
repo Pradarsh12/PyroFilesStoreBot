@@ -56,7 +56,7 @@ async def save_batch_media_in_channel(bot: Client, editable: Message, message_id
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("Open Link", url=share_link)],
                  [InlineKeyboardButton("Developer", url="https://t.me/soonbotmaker0"),
-                  InlineKeyboardButton("Support Group", url="https://t.me/soonbotmaker0")]]
+                  InlineKeyboardButton("Support Group", url="https://t.me/B_PLAB")]]
             ),
             disable_web_page_preview=True
         )
@@ -95,7 +95,7 @@ async def save_media_in_channel(bot: Client, editable: Message, message: Message
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("Open Link", url=share_link)],
                  [InlineKeyboardButton("Bots Channel", url="https://t.me/soonbotmaker0"),
-                  InlineKeyboardButton("Support Group", url="https://t.me/JoinOT")]]
+                  InlineKeyboardButton("Support Group", url="https://t.me/B_PLAB")]]
             ),
             disable_web_page_preview=True
         )
